@@ -1,10 +1,9 @@
-# Udacity Front-end Nonodegree Project
-## Feedreader Testing
+# Udacity Front End Nonodegree Project: Feedreader Testing
 
 Description: 
 This project uses jasmine to test the functionality of a RSS feed reader web-app given by Udacity.  
 
-##Instructions:
+## Instructions:
 1. Install Jasmine
 Jasmine requires Node and NPM, so be sure to install them first:
  * Node:   https://nodejs.org/en/
